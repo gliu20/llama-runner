@@ -3,7 +3,7 @@ uvicorn
 pyyaml
 gguf
 httpx
-qasync
+qasync==0.25.0
 fastapi # Explicitly add fastapi
 pytest
 pytest-asyncio
